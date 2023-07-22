@@ -1,14 +1,14 @@
-# **TXP_FXSERVER_VANILLA_TEMPLATE**
+# **JPH_FXSERVER_VANILLA_TEMPLATE**
 
 ## **DESCRIPTION:**
 Up-to-date working vanilla FiveM server template for Windows.
 
 ## **CREDITS:**
-*Windows server build download from [Windows server build listing](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/).*
+*Windows server build download from [Windows server build listing](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/). (Build 6590)*
 *Modified `server-data` folder get from [cfx-server-data](https://github.com/citizenfx/cfx-server-data) repository.*
 
 ## **HOW TO INSTALL:**
-- *Clone the repository with: `git clone https://github.com/time-xp/txp_fxserver_vanilla_template_windows.git`.*
+- *Clone the repository with: `git clone https://github.com/jellyph1sh/fxserver-vanilla-template-windows.git`.*
 
 ## **HOW TO SETUP:**
 - *Go to `server.cfg` and configure as you want.*
